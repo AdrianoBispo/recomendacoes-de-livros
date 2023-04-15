@@ -8,3 +8,5 @@
 | O Codificador Limpo: Um Código de Conduta para Programadores Profissionais                             |                       Robert C. Martin                       |
 | Domain-Driven Design: Atacando as Complexidades no Coração do Software                                 |                         Eric Evans                           |
 | Programador de Elite: Como Sair do Absoluto Zero e Trabalhar nas Melhores Empresas do Mundo            |      Pedro Nascimento, Mateus Dantas, Phyllipe Medeiros      |
+
+Todos os livros citados acima estão disponíveis na [Amazon.](https://www.amazon.com.br/)
